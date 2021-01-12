@@ -20,7 +20,7 @@
 ### （1）算法本身
 ### （2）算法复杂度
 ### （3）实现细节
-### （4）
+### （4）并行
 ## line_profiler的使用：https://blog.csdn.net/guofangxiandaihua/article/details/77825524
 
 # 寻找hotspots
